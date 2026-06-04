@@ -1,2 +1,24 @@
-# Synchronous_FIFO_Verification
-Verilog-based synchronous FIFO design with functional verification of read, write, full, empty, and reset operations.
+# Synchronous FIFO Verification
+
+## Overview
+This project implements and verifies a synchronous FIFO using Verilog.
+
+## Features
+- Synchronous read and write operations
+- Full flag generation
+- Empty flag generation
+- Reset functionality
+
+## Verification Scenarios
+- Write operation
+- Read operation
+- Full condition
+- Empty condition
+- Reset verification
+
+## Tools Used
+- Verilog
+- ModelSim
+
+## Author
+Muddala Silpa
