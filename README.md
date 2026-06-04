@@ -19,6 +19,9 @@ This project implements and verifies a synchronous FIFO using Verilog.
 ## Tools Used
 - Verilog
 - ModelSim
+## Simulation Waveform
+
+![FIFO Waveform](fifo_waveform.png)
 
 ## Author
 Muddala Silpa
