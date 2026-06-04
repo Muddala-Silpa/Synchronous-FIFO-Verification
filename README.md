@@ -1,2 +1,2 @@
 # Synchronous_FIFO_Verification
-RTL design and verification of a synchronous FIFO using Verilog.
+Verilog-based synchronous FIFO design with functional verification of read, write, full, empty, and reset operations.
